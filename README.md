@@ -32,8 +32,16 @@ companyInventory_with_value.xlsx*)
 
 ### Object-Oriented Programming (OOP)
 
-Construct user profiles from created classes with relevant parameters.
+Construct user profiles from created classes with relevant parameters. (*registry.py*)
 
 **Purpose:** learn to create classes and construct objects with them.
+
+<br>
+
+### List projects (repos) and links under a GitHub user account
+
+Construct user profiles from created classes with relevant parameters. (*request.py*)
+
+**Purpose:** learn to read the documentation and call API from others.
 
 <br>
