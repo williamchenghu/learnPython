@@ -2,6 +2,8 @@
 
 learn basics of Python by following tutorial [here](https://youtu.be/t8pPdKYpowI).
 
+<br>
+
 ## Exercises Descriptions
 
 ### Goal and remaining time:
@@ -25,5 +27,13 @@ time to reach the goal.
 companyInventory_with_value.xlsx*)
 
 **Purpose:** learn to install and use external libraries (*openpyxl*).
+
+<br>
+
+### Object-Oriented Programming (OOP)
+
+Construct user profiles from created classes with relevant parameters.
+
+**Purpose:** learn to create classes and construct objects with them.
 
 <br>
